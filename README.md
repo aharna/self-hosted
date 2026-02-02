@@ -9,7 +9,7 @@ DronaHQ offers a low-code platform to build internal tools. Drag-and-drop UI com
 
 [DronaHQ self-hosted solution](https://www.dronahq.com/self-hosted-signup) ensures that all access to your data is managed within your own cloud environment. It also provides the flexibility to control how DronaHQ is setup within your infrastructure, the ability to configure logging, scaling, and access to enable custom SAML SSO using providers like Okta and Active Directory.
 
-Releases are added and maintained on [DockerHub](https://hub.docker.com/r/dronahq/self-hosted/tags) and on [DronaHQ Community](https://community.dronahq.com/t/dronahq-self-hosted-releases)
+Releases are added and maintained on [DockerHub](https://hub.docker.com/r/dronahq/self-hosted/tags) and on [DronaHQ Documentation](https://docs.dronahq.com/selfhosted-stable/)
 
 ## Single Deployments
 
@@ -140,7 +140,7 @@ Spin up a new EC2 instance. If using AWS, use the following steps:
 
 The latest DronaHQ releases can be pulled from Docker Hub. When you run an on-premise instance of DronaHQ, you’ll need to pull an updated image in order to get new features and fixes.
 
-See more information on our different release channels and recommended update strategies in [our documentation](https://community.dronahq.com/t/updating-dronahq-self-hosted).
+See more information on our different release channels and recommended update strategies in [our documentation](https://docs.dronahq.com/selfhosted-stable/).
 
 
 ### Docker cheatsheet
